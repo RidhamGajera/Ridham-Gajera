@@ -34,7 +34,7 @@ I'm passionate about building robust, scalable applications and contributing to 
 
 ### 🚀 Projects and Contributions:
 
-Feel free to check out my repositories for more of my work!
+Feel free to check out my [repositories](https://github.com/RidhamGajera?tab=repositories) for more of my work!
 
 ---
 
