@@ -2,7 +2,7 @@
 
 ### 💻 Python Developer specializing in FastAPI, Django, Streamlit, AWS, Docker, data handling, web scraping, Beautiful Soup, Selenium, MySQL, PostgreSQL, and SQLite
 
-I'm passionate about building robust, scalable applications and contributing to the tech community.
+I have hands-on experience in the tech world and love working on exciting projects. I enjoy using technology in creative ways to make a positive impact and am always eager to learn and grow.
 
 ---
 
