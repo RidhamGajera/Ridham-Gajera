@@ -28,7 +28,6 @@ I'm passionate about building robust, scalable applications and contributing to 
 
 - [LinkedIn](https://www.linkedin.com/in/ridham-gajera-b28233232/)
 - [Upwork](https://www.upwork.com/freelancers/~0127b8e63f06e25d5c)
-- [GitHub](https://github.com/RidhamGajera?tab=repositories)
 - [Email](mailto:rmgajera3399@gmail.com)
 
 ---
